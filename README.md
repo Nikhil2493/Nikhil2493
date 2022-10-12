@@ -58,13 +58,13 @@
 ## SOCIAL
 
 <p align="center">
-    <a id="GitHub" href="https://github.com/punitbathija"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Punit Bathija - GitHub" /></a>
+    <a id="GitHub" href="https://github.com/punitbathija"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Nikhil N - GitHub" /></a>
     &nbsp;&nbsp;
 <p align="center">
-    <a id="LinkedIn" href="linkedin.com/in/punit-bathija-2b8951217"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Punit Bathija - Linkedin" /></a>
+    <a id="LinkedIn" href="https://in.linkedin.com/in/nikhil-n24"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Nikhil N" /></a>
     &nbsp;&nbsp;
 <p align="center">
-    <a id="LinkedIn" href="mailto:punit644@gmail.com"><img width="27px" src="https://cdn3.iconfinder.com/data/icons/project-management-32/48/51-512.png" alt="Punit Bathija - Email" /></a>
+    <a id="LinkedIn" href="mailto:nikkhilsastri@gmai.com"><img width="27px" src="https://cdn3.iconfinder.com/data/icons/project-management-32/48/51-512.png" alt="Nikhil N- email" /></a>
     &nbsp;&nbsp; <br />
 
 <img src="https://media.istockphoto.com/photos/binary-code-background-picture-id1415972680?b=1&k=20&m=1415972680&s=170667a&w=0&h=UHXSYWXO7U965FLlOBDDu0slmvo5Njv2Np102d7bMz4="  />
