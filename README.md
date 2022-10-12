@@ -67,4 +67,4 @@
     <a id="LinkedIn" href="mailto:punit644@gmail.com"><img width="27px" src="https://cdn3.iconfinder.com/data/icons/project-management-32/48/51-512.png" alt="Punit Bathija - Email" /></a>
     &nbsp;&nbsp;
 
-<img src="https://c4.wallpaperflare.com/wallpaper/122/85/216/geek-programmer-black-background-wallpaper-preview.jpg" style="height:250px"  />
+<img src="https://media.istockphoto.com/photos/binary-code-background-picture-id1415972680?b=1&k=20&m=1415972680&s=170667a&w=0&h=UHXSYWXO7U965FLlOBDDu0slmvo5Njv2Np102d7bMz4="  />
