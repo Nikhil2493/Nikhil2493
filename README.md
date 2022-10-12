@@ -66,4 +66,4 @@
     <a id="LinkedIn" href="mailto:punit644@gmail.com"><img width="27px" src="https://cdn3.iconfinder.com/data/icons/project-management-32/48/51-512.png" alt="Punit Bathija - Email" /></a>
     &nbsp;&nbsp;
 
-<img src="https://wallpaperaccess.com/full/1308869.jpg" height: "250px" width: "auto" />
+<img src="https://wallpaperaccess.com/full/1308869.jpg" style="height:250px"  />
