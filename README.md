@@ -30,7 +30,8 @@
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; **JavaScript**
 
-<img height="32" width="32" src="https://www.clipartmax.com/png/full/288-2881446_image-result-for-golang-go-programming-language-logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />&nbsp; **GO LANG**
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />&nbsp; **GO LANG**
+
 ## Database Systems📊
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; **MYSQL**
