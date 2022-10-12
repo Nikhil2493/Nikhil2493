@@ -21,6 +21,7 @@
   happening new in the tech world📺🌎
 - I also enjoy learning about Personal Finance and how to
   manage one's money💸
+- To be perfect, I always try to practise, practise and practise.
 
 ## < Programming Languages👨‍💻 />
 
