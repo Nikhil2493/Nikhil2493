@@ -24,10 +24,13 @@
 
 ## < Programming Languages👨‍💻 />
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; **HTML 5**
+
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; **CSS 3**
+
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; **JavaScript**
+
+<img height="32" width="32" src="https://www.clipartmax.com/png/full/288-2881446_image-result-for-golang-go-programming-language-logo.png" />&nbsp; **GO LANG**
 ## Database Systems📊
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; **MYSQL**
