@@ -21,8 +21,8 @@
   manage one's money💸
 
 ## < Programming Languages👨‍💻 />
-<span class="d-flex">
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; **HTML 5**</span>
+
+<img style="padding-bottom: 30px" height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; **HTML 5**
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; **CSS 3**
 
