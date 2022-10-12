@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 ## Nikhil N
 ### Hi there 👋
 - 👨‍💻 I am a self taught programmer
